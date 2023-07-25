@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "opensignals:blocks/plus_zs3/shield_black",
+		"3": "opensignals:blocks/plus_zs3/black",
+		"5": "opensignals:blocks/plus_zs3/zs6",
+		"particle": "opensignals:blocks/plus_zs3/shield_gray"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 5, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 5], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 5.98],
+			"to": [13, 14, 5.98],
+			"faces": {
+				"north": {"uv": [4, 5, 12, 16], "texture": "#5", "tintindex": 0}
+			}
+		},
+		{
+			"from": [3, 0, 6],
+			"to": [13, 14, 7],
+			"faces": {
+				"north": {"uv": [0, 1.5, 9, 12.5], "texture": "#3"},
+				"east": {"uv": [0, 0, 9, 1.5], "texture": "#3"},
+				"south": {"uv": [0, 0, 9, 1.5], "texture": "#3"},
+				"west": {"uv": [0, 0, 9, 1.5], "texture": "#3"},
+				"up": {"uv": [0, 0, 9, 1.5], "texture": "#3"},
+				"down": {"uv": [0, 0, 9, 1.5], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		{
+			"name": "sign",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2]
+		}
+	]
+}

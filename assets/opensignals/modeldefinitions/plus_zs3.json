@@ -1,0 +1,45 @@
+{
+    "textures":{},
+    "models":{
+        "plus/mast": {
+            "textures": [
+                {}
+            ],
+            "y": 0
+        },
+        "plus/zs3":{
+            "textures": [
+                {
+                    "blockstate": "with(ZSTYPE.ZS3V)",
+                    "extentions":{
+                        "zs23.json": {
+                        "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 1
+        },
+        "plus/zs3v":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS3V)",
+                    "extentions":{
+                        "zs23.json": {
+                            "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y":1
+        },
+        "plus/zs6":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS6)"
+                }
+            ],
+            "y": 1
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "systemProperties": {
+    "placementToolName": "ZSPLACER",
+    "canLink": false,
+    "defaultHeight": 1,
+    "colors": [
+            0
+        ]
+    },
+    "seProperties": [
+        {
+        "name": "indicator",
+        "enumClass": "ZS",
+        "defaultState": "Z1",
+        "autoname": true,
+        "changeableStage": "GUISTAGE"
+        },
+        {
+        "   name": "zstype",
+            "enumClass": "ZSBackground",
+            "defaultState": "ZS3V",
+            "autoname": true,
+            "changeableStage": "GUISTAGE"
+        }
+    ]
+}
