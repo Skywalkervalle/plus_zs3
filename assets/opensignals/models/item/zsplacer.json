@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "opensignals:items/zs3placer",
-		"particle": "opensignals:items/zs3placer"
+		"0": "opensignals:items/zsplacer",
+		"particle": "opensignals:items/zsplacer"
 	},
 	"elements": [
 		{
