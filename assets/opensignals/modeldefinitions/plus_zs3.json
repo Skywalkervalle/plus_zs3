@@ -7,7 +7,7 @@
             ],
             "y": 0
         },
-        "plus/zs3":{
+        "plus_zs3/zs3":{
             "textures": [
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
@@ -20,7 +20,7 @@
             ],
             "y": 1
         },
-        "plus/zs3v":{
+        "plus_zs3/zs3v":{
             "textures":[
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
@@ -33,7 +33,7 @@
             ],
             "y":1
         },
-        "plus/zs6":{
+        "plus_zs3/zs6":{
             "textures":[
                 {
                     "blockstate": "with(ZSTYPE.ZS6)"
