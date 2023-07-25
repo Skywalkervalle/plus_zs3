@@ -5,20 +5,24 @@
     "defaultHeight": 1,
     "colors": [
             0
-        ]
+        ],
+    "signalHeights": 
+        {
+            "config(ZSTYPE.ZS6)": 0
+        }
     },
     "seProperties": [
-        {
-        "name": "indicator",
-        "enumClass": "ZS",
-        "defaultState": "Z1",
-        "autoname": true,
-        "changeableStage": "GUISTAGE"
-        },
         {
         "name": "zstype",
         "enumClass": "ZSBackground",
         "defaultState": "ZS3V",
+        "autoname": true,
+        "changeableStage": "GUISTAGE"
+        },
+        {
+        "name": "indicator",
+        "enumClass": "ZS",
+        "defaultState": "Z1",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         }
