@@ -16,11 +16,11 @@
         "changeableStage": "GUISTAGE"
         },
         {
-        "   name": "zstype",
-            "enumClass": "ZSBackground",
-            "defaultState": "ZS3V",
-            "autoname": true,
-            "changeableStage": "GUISTAGE"
+        "name": "zstype",
+        "enumClass": "ZSBackground",
+        "defaultState": "ZS3V",
+        "autoname": true,
+        "changeableStage": "GUISTAGE"
         }
     ]
 }
