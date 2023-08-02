@@ -5,7 +5,7 @@
 		"1": "opensignals:blocks/plus_zs3/shield_black",
 		"5": "opensignals:blocks/plus_zs3/zs3v",
 		"particle": "opensignals:blocks/plus_zs3/shield_gray",
-		"overlay": "opensignals:blocks/zs23/z8"
+		"overlay": "opensignals:blocks/zs3/z8"
 	},
 	"elements": [
 		{
