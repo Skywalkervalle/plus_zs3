@@ -10,9 +10,9 @@
         "plus_zs3/zs3":{
             "textures": [
                 {
-                    "blockstate": "with(ZSTYPE.ZS3V)",
+                    "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions":{
-                        "zs23.json": {
+                        "zs32.json": {
                         "INDICATOR": "overlay"
                         }
                     }
@@ -25,7 +25,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions":{
-                        "zs23.json": {
+                        "zs32.json": {
                             "INDICATOR": "overlay"
                         }
                     }
