@@ -12,7 +12,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions":{
-                        "zs32.json": {
+                        "zs3.json": {
                         "INDICATOR": "overlay"
                         }
                     }
@@ -25,7 +25,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions":{
-                        "zs32.json": {  
+                        "zs3.json": {  
                             "INDICATOR": "overlay"
                         }
                     }

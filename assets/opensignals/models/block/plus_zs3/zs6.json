@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "opensignals:blocks/default/shield_gray",
 		"3": "opensignals:blocks/default/black",
-		"5": "opensignals:blocks/plus_zs3/zs6",
+		"overlay": "opensignals:blocks/plus_zs3/zs6",
 		"particle": "opensignals:blocks/default/shield_gray"
 	},
 	"elements": [
@@ -23,7 +23,7 @@
 			"from": [3, 0, 5.98],
 			"to": [13, 14, 5.98],
 			"faces": {
-				"north": {"uv": [4, 5, 12, 16], "texture": "#5", "tintindex": 0}
+				"north": {"uv": [4, 5, 12, 16], "texture": "#overlay", "tintindex": 0}
 			}
 		},
 		{
