@@ -25,7 +25,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions":{
-                        "zs32.json": {
+                        "zs32.json": {  
                             "INDICATOR": "overlay"
                         }
                     }
@@ -36,7 +36,10 @@
         "plus_zs3/zs6":{
             "textures":[
                 {
-                    "blockstate": "with(ZSTYPE.ZS6)"
+                    "blockstate": "with(ZSTYPE.ZS6)",
+                    "retexture": {
+                        "5": "opensignals:blocks/plus_zs3/zs6"
+                    }
                 }
             ],
             "y": 1
