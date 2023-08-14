@@ -37,8 +37,8 @@
             "textures":[
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
-                    "retexture": {
-                        "overlay": "opensignals:blocks/plus_zs3/zs6"
+                    "zs3.json": {  
+                        "INDICATOR": "overlay"
                     }
                 }
             ],
