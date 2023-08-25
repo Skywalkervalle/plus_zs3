@@ -4,11 +4,12 @@
 		"0": "opensignals:blocks/plus_zs3/shield_gray",
 		"1": "opensignals:blocks/plus_zs3/shield_black",
 		"4": "opensignals:blocks/plus_zs3/zs3",
-		"overlay": "opensignals:blocks/zs23/z8",
+		"overlay": "opensignals:blocks/zs3/z8",
 		"particle": "opensignals:blocks/plus_zs3/shield_gray"
 	},
 	"elements": [
 		{
+			"name": "overlay",
 			"from": [6, 4.5, 5.98],
 			"to": [10, 10.5, 5.98],
 			"faces": {

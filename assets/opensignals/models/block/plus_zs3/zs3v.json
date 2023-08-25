@@ -5,14 +5,15 @@
 		"1": "opensignals:blocks/plus_zs3/shield_black",
 		"5": "opensignals:blocks/plus_zs3/zs3v",
 		"particle": "opensignals:blocks/plus_zs3/shield_gray",
-		"overlay": "opensignals:blocks/zs23/z8"
+		"overlay": "opensignals:blocks/zs3/z8"
 	},
 	"elements": [
 		{
-			"from": [6, 4.5, 5.98],
-			"to": [10, 10.5, 5.98],
+			"name": "overlay",
+			"from": [6, 4.5, 5.9],
+			"to": [10, 10.5, 5.9],
 			"faces": {
-				"north": {"uv": [0, 0, 5, 7], "texture": "#overlay", "tintindex": 0}
+				"north": {"uv": [0, 0, 5, 7], "texture": "#overlay", "tintindex": 1}
 			}
 		},
 		{

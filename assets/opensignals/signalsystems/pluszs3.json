@@ -4,7 +4,8 @@
     "canLink": false,
     "defaultHeight": 1,
     "colors": [
-            0
+            16777215,
+            16761344
         ],
     "signalHeights": 
         {
