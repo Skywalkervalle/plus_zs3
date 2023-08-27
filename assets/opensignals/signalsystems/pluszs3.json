@@ -15,14 +15,14 @@
     "seProperties": [
         {
         "name": "zstype",
-        "enumClass": "ZSBackground",
+        "enumClass": "ZS36Background",
         "defaultState": "ZS3V",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },
         {
         "name": "indicator",
-        "enumClass": "ZS",
+        "enumClass": "ZS3NUM",
         "defaultState": "Z1",
         "autoname": true,
         "changeableStage": "GUISTAGE"
