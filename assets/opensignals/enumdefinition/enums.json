@@ -31,5 +31,11 @@
         "Z24",
         "Z25",
         "Z30"
-    ]
+    ],
+    "ZS3Arrow": [
+    "OFF",
+    "ARROW_LEFT",
+    "ARROW_RIGHT",
+    "ARROW_LEFT_RIGHT"
+]
 }

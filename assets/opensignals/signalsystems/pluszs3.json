@@ -9,7 +9,7 @@
         ],
     "signalHeights": 
         {
-            "config(ZSTYPE.ZS6)": 0
+            "config(ZSTYPE.ZS6)": 1
         }
     },
     "seProperties": [
@@ -17,6 +17,13 @@
         "name": "zstype",
         "enumClass": "ZS36Background",
         "defaultState": "ZS3V",
+        "autoname": true,
+        "changeableStage": "GUISTAGE"
+        },
+        {
+        "name": "arrow",
+        "enumClass": "ZS3Arrow",
+        "defaultState": "OFF",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },

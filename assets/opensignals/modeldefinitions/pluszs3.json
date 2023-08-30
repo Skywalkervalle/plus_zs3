@@ -40,6 +40,37 @@
                 }
             ],
             "y": 1
+        },
+        "plus_zs3/arrow": {
+            "textures": [
+                {
+                    "blockstate": "with(ZSTYPE.ZS3)",
+                    "extentions": {
+                        "arrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 1.69
+                },
+                {
+                    "blockstate": "with(ZSTYPE.ZS3V)",
+                    "extentions": {
+                        "arrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 1.69
+                },
+                {
+                    "blockstate": "with(ZSTYPE.ZS6)",
+                    "extentions": {
+                        "arrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 1.85
+                }
+            ]
         }
     }
 }
