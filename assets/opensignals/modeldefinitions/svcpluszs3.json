@@ -1,18 +1,18 @@
 {
     "textures":{},
     "models":{
-        "plus_zs3/mast": {
+        "svc/plus_zs3/mast": {
             "textures": [
                 {}
             ],
             "y": 0
         },
-        "plus_zs3/zs3":{
+        "svc/plus_zs3/zs3":{
             "textures": [
                 {
                     "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions":{
-                        "zs3.json": {
+                        "svczs3.json": {
                         "INDICATOR": "overlay"
                         }
                     }
@@ -20,12 +20,12 @@
             ],
             "y": 1
         },
-        "plus_zs3/zs3v":{
+        "svc/plus_zs3/zs3v":{
             "textures":[
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions":{
-                        "zs3.json": {  
+                        "svczs3.json": {  
                             "INDICATOR": "overlay"
                         }
                     }
@@ -33,7 +33,7 @@
             ],
             "y":1
         },
-        "plus_zs3/zs6":{
+        "svc/plus_zs3/zs6":{
             "textures":[
                 {
                     "blockstate": "with(ZSTYPE.ZS6)"
@@ -41,12 +41,12 @@
             ],
             "y": 1
         },
-        "plus_zs3/arrow": {
+        "svc/plus_zs3/arrow": {
             "textures": [
                 {
                     "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions": {
-                        "arrow.json": {
+                        "svcarrow.json": {
                             "ARROW": "1"
                         }
                     },
@@ -55,7 +55,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions": {
-                        "arrow.json": {
+                        "svcarrow.json": {
                             "ARROW": "1"
                         }
                     },
@@ -64,7 +64,7 @@
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
                     "extentions": {
-                        "arrow.json": {
+                        "svcarrow.json": {
                             "ARROW": "1"
                         }
                     },

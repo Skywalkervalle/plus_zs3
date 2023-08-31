@@ -1,10 +1,10 @@
 {
-    "ZS36Background": [
+    "SVCZS36Background": [
         "ZS3V",
         "ZS3",
         "ZS6"
     ],
-    "ZS3NUM": [
+    "SVCZS3NUM": [
         "Z1",
         "Z2",
         "Z3",
@@ -32,10 +32,10 @@
         "Z25",
         "Z30"
     ],
-    "ZS3Arrow": [
-    "OFF",
-    "ARROW_LEFT",
-    "ARROW_RIGHT",
-    "ARROW_LEFT_RIGHT"
+    "SVCZS3Arrow": [
+        "OFF",
+        "ARROW_LEFT",
+        "ARROW_RIGHT",
+        "ARROW_LEFT_RIGHT"
     ]
 }

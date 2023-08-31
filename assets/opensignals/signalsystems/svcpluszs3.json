@@ -1,6 +1,6 @@
 {
     "systemProperties": {
-    "placementToolName": "ZSPLACER",
+    "placementToolName": "SVCZSPLACER",
     "canLink": false,
     "defaultHeight": 1,
     "colors": [
@@ -15,21 +15,21 @@
     "seProperties": [
         {
         "name": "zstype",
-        "enumClass": "ZS36Background",
+        "enumClass": "SVCZS36Background",
         "defaultState": "ZS3V",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },
         {
         "name": "arrow",
-        "enumClass": "ZS3Arrow",
+        "enumClass": "SVCZS3Arrow",
         "defaultState": "OFF",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },
         {
         "name": "indicator",
-        "enumClass": "ZS3NUM",
+        "enumClass": "SVCZS3NUM",
         "defaultState": "Z1",
         "autoname": true,
         "changeableStage": "GUISTAGE"

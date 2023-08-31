@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "opensignals:blocks/plus_zs3/shield_gray",
-		"2": "opensignals:blocks/plus_zs3/zs6",
-		"3": "opensignals:blocks/plus_zs3/black",
-		"particle": "opensignals:blocks/plus_zs3/shield_gray"
+		"0": "opensignals:blocks/svc/plus_zs3/shield_gray",
+		"2": "opensignals:blocks/svc/plus_zs3/zs6",
+		"3": "opensignals:blocks/svc/plus_zs3/black",
+		"particle": "opensignals:blocks/svc/plus_zs3/shield_gray"
 	},
 	"elements": [
 		{
