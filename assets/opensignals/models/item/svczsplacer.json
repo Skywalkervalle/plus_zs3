@@ -1,1 +1,7 @@
-{"parent": "minecraft:item/generated", "textures": {"layer0": "opensignals:items/svczsplacer"}}
+{
+	"credit": "Made with Blockbench by SkywalkerValle",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "opensignals:items/svczsplacer"
+	}
+}

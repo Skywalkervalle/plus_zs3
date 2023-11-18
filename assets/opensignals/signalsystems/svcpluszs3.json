@@ -9,7 +9,8 @@
         ],
     "signalHeights": 
         {
-            "config(ZSTYPE.ZS6)": 1
+            "config(ZSTYPE.ZS6)": 1,
+            "config(ZSTYPE.ZS13)": 1
         }
     },
     "seProperties": [

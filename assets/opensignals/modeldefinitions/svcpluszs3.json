@@ -41,6 +41,14 @@
             ],
             "y": 1
         },
+            "svc/plus_zs3/zs13":{
+                "textures":[
+                    {
+                        "blockstate": "with(ZSTYPE.ZS13)"
+                    }
+                ],
+                "y": 1
+        },
         "svc/plus_zs3/arrow": {
             "textures": [
                 {
@@ -63,6 +71,15 @@
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
+                    "extentions": {
+                        "svcarrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 1.85
+                },
+                {
+                    "blockstate": "with(ZSTYPE.ZS13)",
                     "extentions": {
                         "svcarrow.json": {
                             "ARROW": "1"
