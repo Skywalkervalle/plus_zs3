@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench by SkywalkerValle",
 	"textures": {
-		"0": "opensignals:blocks/svc/plus_zs3/shield_gray",
-		"1": "opensignals:blocks/svc/plus_zs3/shield_black",
-		"5": "opensignals:blocks/svc/plus_zs3/zs3v",
-		"particle": "opensignals:blocks/svc/plus_zs3/shield_gray",
+		"0": "opensignals:blocks/default/shield_gray",
+		"1": "opensignals:blocks/default/shield_black",
+		"5": "opensignals:blocks/zs/zs3v",
+		"particle": "opensignals:blocks/default/shield_gray",
 		"overlay": "opensignals:blocks/svc/numzs3/z8"
 	},
 	"elements": [

@@ -1,12 +1,6 @@
 {
     "textures":{},
     "models":{
-        "svc/plus_zs3/mast": {
-            "textures": [
-                {}
-            ],
-            "y": 0
-        },
         "svc/plus_zs3/zs3":{
             "textures": [
                 {
@@ -18,7 +12,7 @@
                     }
                 }
             ],
-            "y": 1
+            "y": 0
         },
         "svc/plus_zs3/zs3v":{
             "textures":[
@@ -31,7 +25,7 @@
                     }
                 }
             ],
-            "y":1
+            "y": 0
         },
         "svc/plus_zs3/zs6":{
             "textures":[
@@ -39,15 +33,76 @@
                     "blockstate": "with(ZSTYPE.ZS6)"
                 }
             ],
-            "y": 1
+            "y": 0
         },
-            "svc/plus_zs3/zs13":{
-                "textures":[
+        "svc/plus_zs3/zs13":{
+            "textures":[
                     {
                         "blockstate": "with(ZSTYPE.ZS13)"
                     }
                 ],
-                "y": 1
+                "y": 0
+        },
+        "svc/plus_zs3/zs3_up":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS3UP)",
+                    "extentions":{
+                        "svczs3.json": {  
+                            "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 0
+        },
+        "svc/plus_zs3/zs3v_up":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS3VUP)",
+                    "extentions":{
+                        "svczs3.json": {  
+                            "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 0
+        },
+        "svc/plus_zs3/small_ne3":{
+            "textures": [
+                {
+                    "blockstate": "with(SVCNE3.NE3_1)",
+                    "retexture": {
+                        "ne3": "opensignals:blocks/svc/ne3/ne3_1"
+                    }
+                },
+                {
+                    "blockstate": "with(SVCNE3.NE3_2)",
+                    "retexture": {
+                        "ne3": "opensignals:blocks/svc/ne3/ne3_2"
+                    }
+                },
+                {
+                    "blockstate": "with(SVCNE3.NE3_3)",
+                    "retexture": {
+                        "ne3": "opensignals:blocks/svc/ne3/ne3_3"
+                    }
+                },
+                {
+                    "blockstate": "with(SVCNE3.NE3_4)",
+                    "retexture": {
+                        "ne3": "opensignals:blocks/svc/ne3/ne3_4"
+                    }
+                },
+                {
+                    "blockstate": "with(SVCNE3.NE3_5)",
+                    "retexture": {
+                        "ne3": "opensignals:blocks/svc/ne3/ne3_5"
+                    }
+                }
+            ],
+            "y": 0
         },
         "svc/plus_zs3/arrow": {
             "textures": [
@@ -58,7 +113,7 @@
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.69
+                    "y": 0.69
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
@@ -67,7 +122,7 @@
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.69
+                    "y": 0.69
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
@@ -76,7 +131,7 @@
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.85
+                    "y": 0.85
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS13)",
@@ -85,7 +140,16 @@
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.85
+                    "y": 0.85
+                },
+                {
+                    "blockstate":"with(ZSTYPE.SVCNE3)",
+                    "extentions":{
+                        "svcarrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.9
                 }
             ]
         }

@@ -1,9 +1,12 @@
 {
     "SVCZS36Background": [
+        "ZS3VUP",
         "ZS3V",
+        "ZS3UP",
         "ZS3",
         "ZS6",
-        "ZS13"
+        "ZS13",
+        "SVCNE3"
     ],
     "SVCZS3NUM": [
         "Z1",
@@ -38,5 +41,13 @@
         "ARROW_LEFT",
         "ARROW_RIGHT",
         "ARROW_LEFT_RIGHT"
+    ],
+    "SVCNE3": [
+        "OFF",
+        "NE3_1",
+        "NE3_2",
+        "NE3_3",
+        "NE3_4",
+        "NE3_5"
     ]
 }

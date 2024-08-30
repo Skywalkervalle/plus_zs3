@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench by SkywalkerValle",
+	"textures": {
+		"0": "opensignals:blocks/default/shield_gray",
+		"1": "opensignals:blocks/default/shield_black",
+		"ne3": "opensignals:blocks/svc/ne3/ne3_1",
+		"particle": "opensignals:blocks/default/shield_gray"
+	},
+	"elements": [
+		{
+			"name": "ne3",
+			"from": [2, 2, 6],
+			"to": [14, 14, 7],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 2, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#ne3"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#1"},
+				"south": {"uv": [0, 0, 12, 12], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#1"},
+				"up": {"uv": [0, 0, 12, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 12, 1], "texture": "#1"}
+			}
+		},
+		{
+			"name": "mast",
+			"from": [7, 0, 7],
+			"to": [9, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
+			}
+		}
+	]
+}

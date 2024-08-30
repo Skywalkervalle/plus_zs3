@@ -2,22 +2,17 @@
     "systemProperties": {
     "placementToolName": "SVCZSPLACER",
     "canLink": false,
-    "defaultHeight": 1,
+    "defaultHeight": 0,
     "colors": [
             16777215,
             16761344
-        ],
-    "signalHeights": 
-        {
-            "config(ZSTYPE.ZS6)": 1,
-            "config(ZSTYPE.ZS13)": 1
-        }
+        ]
     },
     "seProperties": [
         {
         "name": "zstype",
         "enumClass": "SVCZS36Background",
-        "defaultState": "ZS3V",
+        "defaultState": "ZS3VUP",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },
@@ -32,6 +27,13 @@
         "name": "indicator",
         "enumClass": "SVCZS3NUM",
         "defaultState": "Z1",
+        "autoname": true,
+        "changeableStage": "GUISTAGE"
+        },
+        {
+        "name":"svcne3",
+        "enumClass":"SVCNE3",
+        "defaultState":"OFF",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         }
