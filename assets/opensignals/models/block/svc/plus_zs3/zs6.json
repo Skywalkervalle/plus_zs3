@@ -8,8 +8,9 @@
 	},
 	"elements": [
 		{
-			"from": [7, 0, 7],
-			"to": [9, 5, 9],
+			"from": [6, 0, 7],
+			"to": [8, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 2, 5], "texture": "#0"},
 				"east": {"uv": [0, 0, 2, 5], "texture": "#0"},
@@ -21,8 +22,9 @@
 		},
 		{
 			"name": "sign",
-			"from": [3, 0, 6],
-			"to": [13, 14, 7],
+			"from": [3, 2, 6],
+			"to": [13, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 2, 0]},
 			"faces": {
 				"north": {"uv": [4, 4, 12, 15.5], "texture": "#2"},
 				"east": {"uv": [0, 0, 9, 1.5], "texture": "#3"},
