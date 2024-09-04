@@ -104,52 +104,52 @@
             ],
             "y": 0
         },
-        "svc/plus_zs3/arrow": {
+        "arrow": {
             "textures": [
                 {
                     "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 0.69
+                    "y": 0.8125
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 0.69
+                    "y": 0.8125
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 0.85
+                    "y": 1
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS13)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 0.85
+                    "y": 1
                 },
                 {
                     "blockstate":"with(ZSTYPE.SVCNE3)",
                     "extentions":{
-                        "svcarrow.json":{
+                        "arrow.json":{
                             "ARROW":"1"
                         }
                     },
-                    "y": 0.9
+                    "y": 0.875
                 }
             ]
         }
