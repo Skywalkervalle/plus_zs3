@@ -5,8 +5,7 @@
         "ZS3UP",
         "ZS3",
         "ZS6",
-        "ZS13",
-        "SVCNE3"
+        "ZS13"
     ],
     "SVCZS3NUM": [
         "Z1",
@@ -43,7 +42,6 @@
         "ARROW_LEFT_RIGHT"
     ],
     "SVCNE3": [
-        "OFF",
         "NE3_1",
         "NE3_2",
         "NE3_3",

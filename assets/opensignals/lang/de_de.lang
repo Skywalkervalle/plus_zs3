@@ -1,11 +1,12 @@
 item.svczsplacer.name=Zs Platzierer
 tile.svcpluszs3.name=Zusatzsignale
+tile.svcplusne3.name=Nebensignale
 property.zstype.name=Typ
-property.zstype.desc=
+property.zstype.desc=Au
 property.value.ZS3V=Zs3V
+property.value.ZS3VUP=Zs3V mit der Spitze nach Oben
 property.value.ZS3=Zs3
+property.value.ZS3=Zs3 mit der Spitze nach ObenZs3
 property.value.ZS6=Zs6
 property.value.ZS13=Zs13
 property.value.SVCNE3=Zwerg Ne3
-property.value.ZS3VUP="Zs3V mit der Spitze nach Oben
-property.value.ZS3UP=Zs3 mit der Spitze nach Oben

@@ -29,13 +29,6 @@
         "defaultState": "Z1",
         "autoname": true,
         "changeableStage": "GUISTAGE"
-        },
-        {
-        "name":"svcne3",
-        "enumClass":"SVCNE3",
-        "defaultState":"OFF",
-        "autoname": true,
-        "changeableStage": "GUISTAGE"
         }
     ]
 }

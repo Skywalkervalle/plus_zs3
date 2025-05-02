@@ -69,41 +69,6 @@
             ],
             "y": 0
         },
-        "svc/plus_zs3/small_ne3":{
-            "textures": [
-                {
-                    "blockstate": "with(SVCNE3.NE3_1)",
-                    "retexture": {
-                        "ne3": "opensignals:blocks/svc/ne3/ne3_1"
-                    }
-                },
-                {
-                    "blockstate": "with(SVCNE3.NE3_2)",
-                    "retexture": {
-                        "ne3": "opensignals:blocks/svc/ne3/ne3_2"
-                    }
-                },
-                {
-                    "blockstate": "with(SVCNE3.NE3_3)",
-                    "retexture": {
-                        "ne3": "opensignals:blocks/svc/ne3/ne3_3"
-                    }
-                },
-                {
-                    "blockstate": "with(SVCNE3.NE3_4)",
-                    "retexture": {
-                        "ne3": "opensignals:blocks/svc/ne3/ne3_4"
-                    }
-                },
-                {
-                    "blockstate": "with(SVCNE3.NE3_5)",
-                    "retexture": {
-                        "ne3": "opensignals:blocks/svc/ne3/ne3_5"
-                    }
-                }
-            ],
-            "y": 0
-        },
         "arrow": {
             "textures": [
                 {
@@ -141,15 +106,6 @@
                         }
                     },
                     "y": 1
-                },
-                {
-                    "blockstate":"with(ZSTYPE.SVCNE3)",
-                    "extentions":{
-                        "arrow.json":{
-                            "ARROW":"1"
-                        }
-                    },
-                    "y": 0.875
                 }
             ]
         }
