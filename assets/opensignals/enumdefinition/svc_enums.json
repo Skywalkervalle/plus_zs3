@@ -1,11 +1,11 @@
 {
     "SVCZS36Background": [
-        "ZS3VUP",
         "ZS3V",
-        "ZS3UP",
         "ZS3",
         "ZS6",
-        "ZS13"
+        "ZS13",
+        "ZS3UP",
+        "ZS3VUP"
     ],
     "SVCZS3NUM": [
         "Z1",

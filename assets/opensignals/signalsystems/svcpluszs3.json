@@ -12,7 +12,7 @@
         {
         "name": "zstype",
         "enumClass": "SVCZS36Background",
-        "defaultState": "ZS3VUP",
+        "defaultState": "ZS3V",
         "autoname": true,
         "changeableStage": "GUISTAGE"
         },
