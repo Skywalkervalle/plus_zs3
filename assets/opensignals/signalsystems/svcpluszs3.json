@@ -2,11 +2,16 @@
     "systemProperties": {
     "placementToolName": "SVCZSPLACER",
     "canLink": false,
-    "defaultHeight": 0,
+    "defaultHeight": 1,
     "colors": [
             16777215,
             16761344
-        ]
+        ],
+        "signalHeights": 
+        {
+            "config(ZSTYPE.ZS3UP)": 0,
+            "config(ZSTYPE.ZS3VUP)": 0
+        }
     },
     "seProperties": [
         {

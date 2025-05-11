@@ -1,10 +1,10 @@
 {
 "item.svczsplacer.name": "Zs Placer",
 "tile.svcpluszs3.name:": "Additional Signals",
-"tile.ne3type.name": "Ne - Side signal",
+"tile.svcplusne3.name": "Ne - Side signal",
 "property.zstype.name": "Typ",
 "property.zstype.desc": "",
-"property.ne3type.name":"Ne Signals",
+"property.ne3type.name":"Ne - Signals",
 "property.ne3type.desc": "",
 "property.value.ZS3V":"Zs3V",
 "property.value.ZS3": "Zs3",

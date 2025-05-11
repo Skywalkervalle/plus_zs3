@@ -1,10 +1,10 @@
 {
 "item.svczsplacer.name": "Zs Platzierer",
 "tile.svcpluszs3.name:": "Zusatzsignale",
-"tile.ne3type.name": "Ne - Nebensignal",
+"tile.svcplusne3.name": "Ne - Nebensignal",
 "property.zstype.name": "Typ",
 "property.zstype.desc": "",
-"property.ne3type.name": "Ne Signale",
+"property.ne3type.name": "Ne - Signale",
 "property.ne3type.desc": "",
 "property.value.ZS3V":"Zs3V",
 "property.value.ZS3": "Zs3",
