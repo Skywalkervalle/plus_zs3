@@ -1,4 +1,4 @@
-# Plus_Zs3 1.0
+# Plus_Zs3
 
 This content pack adds different Signs from Germany. 
 
