@@ -7,10 +7,10 @@
             16777215,
             16761344
         ],
-    "signalHeights": 
+        "signalHeights": 
         {
-            "config(ZSTYPE.ZS6)": 1,
-            "config(ZSTYPE.ZS13)": 1
+            "config(ZSTYPE.ZS3UP)": 0,
+            "config(ZSTYPE.ZS3VUP)": 0
         }
     },
     "seProperties": [

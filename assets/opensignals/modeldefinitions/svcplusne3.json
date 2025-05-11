@@ -1,0 +1,89 @@
+{
+    "textures":{},
+    "models":{
+        "svc/plus_zs3/small_ne3":{
+            "textures": [
+            {
+                "blockstate": "with(NE3TYPE.NE3_1)",
+                "retexture": {
+                "ne3": "opensignals:blocks/svc/ne3/ne3_1"
+                }
+            },
+            {
+                "blockstate": "with(NE3TYPE.NE3_2)",
+                "retexture": {
+                "ne3": "opensignals:blocks/svc/ne3/ne3_2"
+                }
+            },
+            {
+            "blockstate": "with(NE3TYPE.NE3_3)",
+            "retexture": {
+                "ne3": "opensignals:blocks/svc/ne3/ne3_3"
+                }
+            },
+            {
+                "blockstate": "with(NE3TYPE.NE3_4)",
+                "retexture": {
+                "ne3": "opensignals:blocks/svc/ne3/ne3_4"
+                }
+            },
+            {
+                "blockstate": "with(NE3TYPE.NE3_5)",
+                "retexture": {
+                "ne3": "opensignals:blocks/svc/ne3/ne3_5"
+                }
+                }
+                    ],
+                    "y": 0
+        },
+        "arrow": {
+            "textures": [
+                {
+                    "blockstate":"with(NE3TYPE.NE3_1)",
+                    "extentions":{
+                        "arrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.875
+                },
+                {
+                    "blockstate":"with(NE3TYPE.NE3_2)",
+                    "extentions":{
+                        "arrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.875
+                },
+                {
+                    "blockstate":"with(NE3TYPE.NE3_3)",
+                    "extentions":{
+                        "arrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.875
+                },
+                {
+                    "blockstate":"with(NE3TYPE.NE3_4)",
+                    "extentions":{
+                        "arrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.875
+                },
+                {
+                    "blockstate":"with(NE3TYPE.NE3_5)",
+                    "extentions":{
+                        "arrow.json":{
+                            "ARROW":"1"
+                        }
+                    },
+                    "y": 0.875
+                }
+            ]
+        }
+    }
+}

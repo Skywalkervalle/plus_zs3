@@ -1,0 +1,27 @@
+{
+    "systemProperties": {
+    "placementToolName": "SVCZSPLACER",
+    "canLink": false,
+    "defaultHeight": 0,
+    "colors": [
+            16777215,
+            16761344
+        ]
+    },
+    "seProperties": [
+        {
+            "name":"ne3type",
+            "enumClass":"SVCNE3",
+            "defaultState":"NE3_1",
+            "autoname": true,
+            "changeableStage": "GUISTAGE"
+        },
+        {
+            "name": "arrow",
+            "enumClass": "SVCZS3Arrow",
+            "defaultState": "OFF",
+            "autoname": true,
+            "changeableStage": "GUISTAGE"
+        }
+    ]
+}

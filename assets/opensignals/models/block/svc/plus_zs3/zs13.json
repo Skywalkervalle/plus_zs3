@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench by SkywalkerValle",
 	"textures": {
-		"0": "opensignals:blocks/svc/plus_zs3/shield_gray",
+		"0": "opensignals:blocks/default/shield_gray",
 		"2": "opensignals:blocks/svc/plus_zs3/zs13",
-		"3": "opensignals:blocks/svc/plus_zs3/black",
-		"particle": "opensignals:blocks/svc/plus_zs3/shield_gray"
+		"3": "opensignals:blocks/default/black",
+		"particle": "opensignals:blocks/default/shield_gray"
 	},
 	"elements": [
 		{
 			"from": [7, 0, 7],
-			"to": [9, 5, 9],
+			"to": [9, 7, 9],
 			"faces": {
 				"north": {"uv": [0, 0, 2, 5], "texture": "#0"},
 				"east": {"uv": [0, 0, 2, 5], "texture": "#0"},
@@ -21,8 +21,9 @@
 		},
 		{
 			"name": "sign",
-			"from": [3, 0, 6],
-			"to": [13, 14, 7],
+			"from": [3, 2, 6],
+			"to": [13, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 2, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 4, 4.5], "texture": "#2"},
 				"east": {"uv": [0, 0, 9, 1.5], "texture": "#3"},

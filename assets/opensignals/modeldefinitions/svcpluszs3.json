@@ -1,11 +1,11 @@
 {
     "textures":{},
     "models":{
-        "svc/plus_zs3/mast": {
+        "mast":{
             "textures": [
                 {}
             ],
-            "y": 0
+            "y":0
         },
         "svc/plus_zs3/zs3":{
             "textures": [
@@ -31,7 +31,7 @@
                     }
                 }
             ],
-            "y":1
+            "y": 1
         },
         "svc/plus_zs3/zs6":{
             "textures":[
@@ -41,51 +41,95 @@
             ],
             "y": 1
         },
-            "svc/plus_zs3/zs13":{
-                "textures":[
+        "svc/plus_zs3/zs13":{
+            "textures":[
                     {
                         "blockstate": "with(ZSTYPE.ZS13)"
                     }
                 ],
                 "y": 1
         },
-        "svc/plus_zs3/arrow": {
+        "svc/plus_zs3/zs3_up":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS3UP)",
+                    "extentions":{
+                        "svczs3.json": {  
+                            "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 0
+        },
+        "svc/plus_zs3/zs3v_up":{
+            "textures":[
+                {
+                    "blockstate": "with(ZSTYPE.ZS3VUP)",
+                    "extentions":{
+                        "svczs3.json": {  
+                            "INDICATOR": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 0
+        },
+        "arrow": {
             "textures": [
                 {
                     "blockstate": "with(ZSTYPE.ZS3)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.69
+                    "y": 1.8125
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS3V)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.69
+                    "y": 1.8125
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS6)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.85
+                    "y": 2
                 },
                 {
                     "blockstate": "with(ZSTYPE.ZS13)",
                     "extentions": {
-                        "svcarrow.json": {
+                        "arrow.json": {
                             "ARROW": "1"
                         }
                     },
-                    "y": 1.85
+                    "y": 2
+                },
+                {
+                    "blockstate": "with(ZSTYPE.ZS3UP)",
+                    "extentions": {
+                        "arrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 0.8125
+                },
+                {
+                    "blockstate": "with(ZSTYPE.ZS3VUP)",
+                    "extentions": {
+                        "arrow.json": {
+                            "ARROW": "1"
+                        }
+                    },
+                    "y": 0.8125
                 }
             ]
         }
