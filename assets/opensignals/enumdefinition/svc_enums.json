@@ -49,9 +49,9 @@
         "NE3_5"
     ],
     "SVCDWARFZS":[
-    "DWARFZS2",
-    "DWARFZS3",
-    "DWARFZS6"
+        "DWARFZS2",
+        "DWARFZS3",
+        "DWARFZS6"
     ],
     "DWARFZS2": [
         "OFF",

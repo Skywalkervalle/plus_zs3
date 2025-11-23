@@ -1,0 +1,16 @@
+{
+    "systemProperties": {
+    "placementToolName": "SVCZSPLACER",
+    "canLink": false,
+    "defaultHeight": 0,
+    "colors": [
+            16777215,
+            16761344
+        ]
+    },
+    "seProperties":[
+        {
+            
+        }
+    ]
+}
