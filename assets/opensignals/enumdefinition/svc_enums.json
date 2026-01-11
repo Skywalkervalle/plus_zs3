@@ -46,7 +46,12 @@
         "NE3_2",
         "NE3_3",
         "NE3_4",
-        "NE3_5"
+        "NE3_5",
+        "SL_NE3_1",
+        "SL_NE3_2",
+        "SL_NE3_3",
+        "SL_NE3_4",
+        "SL_NE3_5"
     ],
     "SVCDWARFZS":[
         "DWARFZS2",
