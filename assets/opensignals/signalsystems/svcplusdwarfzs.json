@@ -10,7 +10,10 @@
     },
     "seProperties":[
         {
-            
+        "name": "dwarfzs23",
+        "enumclass": "SVCDWARFZS",
+        "defaultState": "DWARFZS",
+        "autoname": true
         }
     ]
 }

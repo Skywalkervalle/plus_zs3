@@ -1,0 +1,17 @@
+{
+    "models": {
+        "svc/plus_zs3/dwarf_zs23": {
+            "textures": [
+                {
+                    "blockstate": "",
+                    "extentions": {
+                        "zs32.json": {
+                            "ZS2": "overlay"
+                        }
+                    }
+                }
+            ],
+            "y": 0
+        }
+    }
+}   
