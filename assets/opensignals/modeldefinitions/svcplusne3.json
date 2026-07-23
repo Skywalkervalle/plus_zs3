@@ -33,8 +33,8 @@
                 "ne3": "opensignals:blocks/svc/ne3/ne3_5"
                 }
                 }
-                    ],
-                    "y": 0
+            ],
+    "y": 0
         },
             "svc/plus_zs3/small_long_ne3":{
             "textures": [
@@ -47,7 +47,7 @@
             {
                 "blockstate": "with(NE3TYPE.SL_NE3_2)",
                 "retexture": {
-                "ne3": "oopensignals:blocks/ne/ne3_2"
+                "ne3": "opensignals:blocks/ne/ne3_2"
                 }
             },
             {
@@ -67,9 +67,9 @@
                 "retexture": {
                 "ne3": "opensignals:blocks/ne/ne3_5"
                 }
-                }
-                    ],
-                    "y": 0
+            }
+        ],
+    "y": 0
         },
         "arrow": {
             "textures": [
@@ -80,7 +80,7 @@
                         "ARROW":"1"
                     }
                     },
-                    "y": 0.875
+                "y": 0.875
             },
             {
                 "blockstate":"with(NE3TYPE.NE3_2)",
@@ -89,7 +89,7 @@
                         "ARROW":"1"
                         }
                     },
-                    "y": 0.875
+                "y": 0.875
             },
             {
                 "blockstate":"with(NE3TYPE.NE3_3)",
@@ -98,7 +98,7 @@
                         "ARROW":"1"
                         }
                     },
-                    "y": 0.875
+                "y": 0.875
             },
             {
                 "blockstate":"with(NE3TYPE.NE3_4)",
@@ -116,7 +116,7 @@
                             "ARROW":"1"
                         }
                     },
-                    "y": 0.875
+                "y": 0.875
             },
             {
                 "blockstate":"with(NE3TYPE.SL_NE3_1)",
@@ -125,7 +125,7 @@
                         "ARROW":"1"
                             }
                         },
-                        "y": 1.8125
+                "y": 0.05
             },
             {
                 "blockstate":"with(NE3TYPE.SL_NE3_2)",
@@ -134,7 +134,7 @@
                         "ARROW":"1"
                             }
                         },
-                        "y": 1.8125
+                    "y": 0.05
                 },
                 {
                 "blockstate":"with(NE3TYPE.SL_NE3_3)",
@@ -143,7 +143,7 @@
                                 "ARROW":"1"
                             }
                         },
-                        "y": 1.8125
+                    "y": 0.05
                 },
                 {
                         "blockstate":"with(NE3TYPE.SL_NE3_4)",
@@ -152,7 +152,7 @@
                                 "ARROW":"1"
                             }
                         },
-                        "y": 1.8125
+                    "y": 0.05
                 },
                 {
                         "blockstate":"with(NE3TYPE.SL_NE3_5)",
@@ -161,7 +161,7 @@
                                 "ARROW":"1"
                             }
                         },
-                        "y": 1.8125
+                    "y": 0.05
                 }
             ]
         }

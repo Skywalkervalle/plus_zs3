@@ -1,0 +1,13 @@
+{
+    "textures":{},
+    "models":{
+        "svc/plus_zs3/dwarf_zs23":{
+            "textures": [
+                {
+                    "blockstate": "with(ZSTYPE.DWARF_ZS23)"
+                }
+            ],
+            "y": 0
+        }
+    }
+}
